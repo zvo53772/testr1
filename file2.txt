@@ -1,0 +1,3 @@
+﻿Hello Git
+哈囉Git
+file2.txt
